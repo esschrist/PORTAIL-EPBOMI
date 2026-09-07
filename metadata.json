@@ -1,0 +1,6 @@
+{
+  "name": "SIGEF - Portail Financier MCEF",
+  "description": "Un seul portail web pour gérer tous les services financiers du MCEF (Ministère Chargé de l'Économie et des Finances)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
